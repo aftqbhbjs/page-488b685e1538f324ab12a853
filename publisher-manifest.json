@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "4f2654dae5b66154dc0e9fbb",
+  "owner": "aftqbhbjs",
+  "repo": "page-488b685e1538f324ab12a853",
+  "title": "可乐云(Kelecloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "488b685e1538f324ab12a853",
+      "a": "可乐云(Kelecloud)",
+      "b": "",
+      "entity": "可乐云(Kelecloud)",
+      "brand": "可乐云(Kelecloud)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "1fd7f93aa8a27f4fcadcd71bf0c75f6a13460dda883e6508cbea2d3f06fff890",
+      "content": {
+        "keyword1": "可乐云(Kelecloud)",
+        "keyword2": "",
+        "primary_entity": "可乐云(Kelecloud)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "可乐云(Kelecloud)提供专业机场订阅与VPN网络加速服务，支持多端客户端官方下载，覆盖流媒体解锁、游戏加速与跨境办公，欢迎访问官网查看套餐与使用说明。",
+          "AI_DESCRIPTION": "可乐云(Kelecloud)提供专业机场订阅与VPN网络加速服务，支持多端客户端官方下载，覆盖流媒体解锁、游戏加速与跨境办公，欢迎访问官网查看套餐与使用说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html,body{max-width:100%;overflow-x:hidden}body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:#F7F3E8;color:#1A2B24;font-size:18px;line-height:1.75}a{color:#1E4D3A;text-decoration:underline}header,main,footer{width:100%}header{background:#1E4D3A;color:#F7F3E8;padding:14px 16px}header nav{display:flex;flex-wrap:wrap;gap:10px 16px;max-width:980px;margin:0 auto}header a{color:#F7F3E8;text-decoration:none;font-size:15px}main{max-width:980px;margin:0 auto;padding:0 16px 48px}.hero{padding:72px 8px 56px;text-align:center}.hero h1{font-size:2.15rem;line-height:1.25;color:#1E4D3A;letter-spacing:.02em;margin-bottom:18px}.hero p{max-width:36em;margin:0 auto;font-size:1.05rem}h2{font-size:1.45rem;color:#1E4D3A;margin:36px 0 14px;padding-top:8px}h3{font-size:1.12rem;color:#2C5F4E;margin:18px 0 8px}p,li{margin-bottom:10px}ul{padding-left:1.2em}.plans{display:flex;flex-wrap:wrap;gap:14px;margin:18px 0 8px}.plan{flex:1 1 260px;background:#FFFEF6;border:2px solid #C9D7CF;border-radius:10px;padding:16px 16px 18px}.plan.featured{border-color:#1E4D3A;background:#E8F1EC;box-shadow:0 0 0 1px #1E4D3A}.price{font-size:1.35rem;font-weight:700;color:#1E4D3A;margin:6px 0}.annual{font-size:.95rem;color:#35594A;margin-bottom:10px}.clients{background:#E8F1EC;border:1px solid #C9D7CF;border-radius:10px;padding:16px 16px 8px;margin:12px 0 8px}.clients ol{padding-left:1.2em}.faq details{background:#FFFEF6;border:1px solid #C9D7CF;border-radius:8px;padding:10px 14px;margin:10px 0}.faq summary{font-weight:700;color:#1E4D3A}.notice,.ads,.links,.sitemap{background:#FFFEF6;border:1px solid #C9D7CF;border-radius:8px;padding:14px 16px;margin:16px 0}footer{background:#1E4D3A;color:#F7F3E8;padding:22px 16px 28px;font-size:15px}footer a{color:#F7F3E8}footer .wrap{max-width:980px;margin:0 auto}@media (max-width:640px){body{font-size:16px}.hero{padding:48px 4px 36px}.hero h1{font-size:1.7rem}.plan{flex-basis:100%}}</style><header><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#clients\">客户端下载</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a><a href=\"#links\">友情链接</a></nav></header><main><section class=\"hero\"><h1>可乐云(Kelecloud)</h1><p>可乐云官方网站提供机场订阅、VPN梯子与网络加速服务。选择适合的套餐后，即可在多端客户端导入订阅，用于流媒体解锁、游戏加速和跨境访问。本页同时整理官方下载入口与上手步骤。</p></section><section id=\"intro\"><h2>品牌简介</h2><p>可乐云（Kelecloud）面向需要稳定跨境连接的个人与团队，提供可订阅的机场节点与兼容主流协议的加速方案。服务重点放在线路可用性、流媒体解锁和多设备同时在线，而不是堆砌无法核验的宣传数字。</p><p>用户可在官网完成套餐选择与续费，获取订阅地址后导入 Clash、Shadowrocket、sing-box 等客户端。旗舰与团队方案包含 IPLC 专线优化与优先支持，基础版则覆盖日常浏览与基础流媒体需求。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>以下为当前官网展示的固定套餐。流量按月重置，设备数以同时在线为准。年付价格便于长期使用，具体开通仍以结算页为准。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"clients\"><h2>客户端选择与官方下载</h2><p>可乐云强调先选对客户端再导入订阅。请优先使用本页推荐的主流开源或常用工具，避免来路不明的安装包。官方下载入口仅指向官网客户端说明区与各平台常用应用，不通过第三方网盘分发。</p><div class=\"clients\"><h3>各平台建议</h3><ul><li>Windows：Clash Verge 或 sing-box 图形客户端，导入订阅后更新节点即可连接。</li><li>macOS：ClashX Meta 或 Surge，适合需要规则分流的用户。</li><li>Android：Clash Meta for Android 或 v2rayNG，便于在移动网络下切换节点。</li><li>iOS：Shadowrocket、Stash 或 Quantumult，应用需从官方应用商店自行获取。</li><li>Linux：Clash / mihomo 或 sing-box 命令行与轻量面板，适合长期挂机。</li></ul><h3>官方下载与导入顺序</h3><ol><li>在官网完成套餐订阅，复制订阅链接。</li><li>安装对应系统客户端（见上表）。</li><li>在客户端选择“从 URL 添加订阅 / 导入机场订阅”。</li><li>更新节点列表，选择延迟较低的线路后开启系统代理或 TUN。</li></ol><p><a href=\"#guide\">查看完整操作说明</a> · <a href=\"#faq\">客户端常见问题</a></p></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体与内容访问</h3><p>旗舰版强调全节点原生流媒体解锁，适合观看常见海外视频平台。基础版可满足常规站点与部分基础解锁，高峰时段建议切换备用节点。</p><h3>游戏与低延迟线路</h3><p>需要更稳定往返时延时，优先使用带 IPLC 专线说明的节点。旗舰版对此类线路做了游戏加速优化，团队版可按业务划分专属带宽。</p><h3>办公、学习与多设备</h3><p>远程会议、资料检索和多终端同步可按设备数选择套餐：个人三设备选基础版，家庭或工作室五设备选旗舰版，小团队二十设备选团队版并配置定制路由。</p></section><section id=\"guide\"><h2>操作说明</h2><h3>订阅开通</h3><p>进入官网套餐页选择基础版、旗舰版或团队版，完成支付后在用户中心复制订阅地址。请妥善保存该地址，勿公开发布。</p><h3>连接与分流</h3><p>首次连接建议先测延迟再固定常用节点。浏览与视频可走自动分流；游戏或会议可手动指定 IPLC 或低延迟节点。若某节点失败，更新订阅后再试其他地区。</p><h3>流量与设备管理</h3><p>流量在套餐周期内累计，周期结束后按套餐额度重置。同时在线设备超过套餐上限时，较早会话可能被挤下线。团队版可通过客户经理协助设置路由策略。</p><p>需要客服时，旗舰版与团队版走优先工单通道；基础版使用常规工单即可。本站不提供即时聊天脚本，请通过官网工单系统提交。</p></section><section id=\"faq\" class=\"faq\"><h2>常见问题</h2><details><summary>可乐云是机场还是 VPN？和客户端是什么关系？</summary><p>可乐云是提供机场订阅的网络加速品牌，用户拿到的是可导入 Clash、Shadowrocket 等工具的节点配置。VPN 一词在此指通过这些客户端建立的加密代理通道，而不是单独某个闭源 App 名称。</p></details><details><summary>官方客户端下载在哪里？会不会捆绑无关软件？</summary><p>请以本页「客户端选择与官方下载」以及官网下载说明为准。Windows、macOS、Android、Linux 使用常见开源或主流客户端；iOS 应用从系统商店获取。不要从论坛附件或网盘下载自称“可乐云安装包”的文件。</p></details><details><summary>三个套餐怎么选？流量不够能否升级？</summary><p>轻度浏览与基础流媒体选基础版（100GB / 3 设备）。需要原生解锁、游戏向 IPLC 和优先支持选旗舰版（300GB / 5 设备）。工作室或多人共享选团队版（1000GB / 20 设备）。周期内可按官网规则补差升级，剩余流量处理以用户中心提示为准。</p></details><details><summary>是否支持 Netflix 等流媒体以及游戏加速？</summary><p>基础版标注解锁基础流媒体；旗舰版为全节点原生流媒体解锁，并含 IPLC 专线游戏加速优化。实际播放与延迟仍受当地网络和目标站点策略影响，遇到失败可更换同区域其他节点。</p></details><details><summary>节点覆盖哪些地区？协议是否常见？</summary><p>线路包含香港、日本、新加坡、美国等常用方向，旗舰与团队方案强化专线与高带宽节点。协议侧兼容 Shadowsocks、VMess、Trojan 以及可被 Clash / sing-box 使用的常见配置，便于一套订阅多端使用。</p></details><details><summary>如何确认这是官网信息而不是仿冒页？</summary><p>认准品牌全称「可乐云(Kelecloud)」、套餐价格与设备额度是否与本页一致，并通过官网域名完成支付与工单。不要向陌生人发送订阅链接，也不要在非官方页面填写账号密码。</p></details></section><aside class=\"ads\" id=\"ads\"><h2>官方提示</h2><p>购买与续费请只通过可乐云官网完成。任何声称代充、内部折扣或强制添加即时通讯账号的渠道均非官方。本页为品牌信息与客户端指引，不展示第三方弹窗广告脚本。</p></aside><nav class=\"sitemap\" id=\"sitemap\"><h2>网站地图</h2><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#clients\">客户端选择与官方下载</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#links\">友情链接</a></li></ul></nav><section class=\"links\" id=\"links\"><h2>友情链接</h2><ul><li><a href=\"#\">客户端配置备忘</a></li><li><a href=\"#\">分流规则说明</a></li><li><a href=\"#\">节点延迟自测指引</a></li><li><a href=\"#clients\">返回官方下载说明</a></li></ul></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>可乐云(Kelecloud) 官方网站 · 机场订阅与 VPN 网络加速客户端下载</p><p><a href=\"#intro\">关于</a> · <a href=\"#plans\">套餐</a> · <a href=\"#clients\">下载</a> · <a href=\"#sitemap\">网站地图</a></p><p>canonical: https://kelecloud.com/</p></div></footer>",
+          "hash": "644d917aafbd927e93adc401c060d6942e08f77ed07f1205b2373eb79cc00d86",
+          "seo": {
+            "title": "可乐云(Kelecloud)官网 | VPN梯子网络加速器与机场订阅客户端下载",
+            "keywords": "可乐云,Kelecloud,可乐云机场,可乐云VPN,VPN梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,IPLC专线",
+            "description": "可乐云(Kelecloud)提供专业机场订阅与VPN网络加速服务，支持多端客户端官方下载，覆盖流媒体解锁、游戏加速与跨境办公，欢迎访问官网查看套餐与使用说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "oevdikd.cn",
+    "host": "p-76b0ce9847.oevdikd.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "bl0k0d.cn",
+      "url": "https://bl0k0d.cn/",
+      "label": "可乐云(Kelecloud)",
+      "apex": "bl0k0d.cn",
+      "kind": null,
+      "identity": "vwuubtacf/page-36d162f1c89cf5fdff31fc34"
+    },
+    {
+      "host": "d807c4.cn",
+      "url": "https://d807c4.cn/",
+      "label": "可乐云(Kelecloud)",
+      "apex": "d807c4.cn",
+      "kind": null,
+      "identity": "sdbqgfqxrnn/page-412acf52791e53bf51175686"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "9a2bf795f1445805c23b64c7a76f4c454c82f0efab2076f9f57e17ff05aead75",
+    "sitemap.xml": "30c94b9b82d11de32c4a9fc59b9b90147af0ae03b2c674050280444843733ea4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bcd6c3d64a2ae99669f5fbc827adf945b8077e654dfd3e17fac09a30400b0bf3",
+    "robots.txt": "659092fe2d2b861338a943d988edebb0f55e5f9965c09f817402c54061bb4216",
+    "63a057b6615e4c02914dd3218fb4d655.txt": "ca18f8eb2c700f7ff44de0539b4480a271cfd38445df7d3ea7db870c86f000a7"
+  },
+  "revision": "922fa2fc8f3799fd9df412d46b04ed6736833c42c149773db0ae4219153110fd"
+}
